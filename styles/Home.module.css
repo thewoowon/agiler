@@ -11,6 +11,12 @@
   justify-content: center;
   align-items: center;
 }
+.header{
+  display: flex;
+  border-bottom: 1px solid #eaeaea;
+  align-items: center;
+  padding: 1rem 0;
+}
 
 .footer {
   display: flex;
@@ -114,3 +120,5 @@
     flex-direction: column;
   }
 }
+
+
