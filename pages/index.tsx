@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header className={styles.header}>
-        <a href="https://nextjs.org/docs" className={styles.}><Image src={fromCaradle} alt='Agiler' width={200} height={48}></Image></a>
+        <a href="https://nextjs.org/docs" ><Image src={fromCaradle} alt='Agiler' width={200} height={48}></Image></a>
         <a href="https://nextjs.org/docs"><Image src={magnifier} alt='Magnifier' width={24} height={24}></Image></a>
         <a href="https://nextjs.org/docs"><Image src={man} alt='Man' width={48} height={48}></Image></a>
       </header>
